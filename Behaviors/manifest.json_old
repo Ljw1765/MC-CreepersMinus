@@ -1,0 +1,15 @@
+{
+  "header": {
+    "pack_id": "Creepers-",
+    "name": "Creepers -",
+    "packs_version": "0.0.1",
+    "modules": [
+      {
+        "description": "Fixed a glitch where creepers would make large craters.",
+        "version": "1.0",
+        "uuid": "Creepers_Minus_Ljw1765",
+        "type": "data"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+   "format_version" : 1,
+   "header" : {
+      "description" : "Fixed a glitch where creepers would make large craters. By JW §b@Ljw1765",
+      "name" : "Creepers -",
+      "uuid" : "d4340ac0-a633-3108-9a06-1febc41f0a1d",
+      "version" : [ 1, 0, 0 ]
+   },
+   "modules" : [
+      {
+         "description" : "Fixed a glitch where creepers would make large craters. Made by Ljw1765.",
+         "type" : "data",
+         "uuid" : "aed13acc-8ade-3cbc-8b60-bd8ebb716b32",
+         "version" : [ 1, 0, 0 ]
+      }
+   ]
+}
